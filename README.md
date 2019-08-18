@@ -1,7 +1,7 @@
 Comb
 ====
 
-A Docker image for running [VOC's]()(https://github.com/pybee/voc) Python 3.6 tests on [BeeKeeper](https://github.com/pybee/beekeeper).
+A Docker image for running [VOC's]()(https://github.com/pybee/voc) Python 3.7 tests on [BeeKeeper](https://github.com/pybee/beekeeper).
 
 If your own testing needs don't match this base image, you can use it as a template for your own Docker image, which can be referenced in the BeeKeeper configuration file for your project.
 
